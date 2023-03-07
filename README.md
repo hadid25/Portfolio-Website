@@ -1,13 +1,9 @@
-# 💼 Responsive Mini Portfolio
-## [Watch it on youtube](https://youtu.be/mq0xJxOTiYo)
-### 💼 Responsive Mini Portfolio
+# Portfolio Website
 
-- Responsive mini portfolio website Using HTML CSS & JavaScript
-- Contains animations css.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Hello!
+Welcome to repo for my portfolio website
+Click [here](https://hadid25.github.io/Portfolio-Website/) to visit the live website hosted on GitHub Pages
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+It was built in HTML, CSS and JavaScript based on a template from  [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
